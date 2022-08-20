@@ -1,5 +1,5 @@
 # budgetCalculator
-```python
+```javascript
 
   print("Hello World")
 
